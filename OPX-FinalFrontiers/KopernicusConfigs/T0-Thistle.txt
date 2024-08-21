@@ -1,0 +1,8 @@
+Rings
+{
+    Ring // fluffy one
+    {
+        outerRadius = 8283
+        innerRadius = 3000
+    }
+}
